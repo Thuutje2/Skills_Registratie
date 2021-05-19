@@ -101,7 +101,7 @@ function showInfo(){
             <p><b>Medewerker Naam :</b> hier komt medewerker naam</p>
             <p><b>Medewerker Achternaam :</b> hier komt medewerker achternaam</p><br>
 
-            <!-- For loop met skills en niveau -->
+            <!-- For loop met skills en niveau. -->
             <p><b>Skillnaam :</b> skillniveau</p>
 
             <?php

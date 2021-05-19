@@ -690,7 +690,7 @@ if(isset($_POST['skill_registratie'])){
 
     }
 
-    // skills verwijderen
+    // skills verwijderen.
     if(isset($_POST['skills_delete'])){
 
         $med_id = $_POST['delete_id']; 

@@ -254,7 +254,7 @@ function registerSkills(){
   </div>
 
 </div>
-<!-- /.container-fluid -->
+<!-- /.container-fluid. -->
 
 <?php
 include('includes/scripts.php');
